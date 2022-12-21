@@ -1,6 +1,7 @@
 # In this page, we will go over creating the Function App. | En esta página, repasaremos la creación de la aplicación Function.
 
 The first step is to create a simple Function App via the Azure Portal. | El primer paso es crear una aplicación de función sencilla a través del Portal de Azure.
+
 ![image](https://user-images.githubusercontent.com/92878154/208965566-35b095f7-ebaf-49a3-880a-99fb45358fa5.png)
 #### Region: It is best to keep the Region of the Function App, Storage account and VNET all in the same Region. 
 #### Región: es mejor mantener la región de la aplicación de función, la cuenta de almacenamiento y la red virtual en la misma región.
